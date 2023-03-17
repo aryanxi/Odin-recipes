@@ -10,11 +10,10 @@
 ul.myUl{
     display: inline-block;
     text-align: left;
-    
     font-size: 30px;
 }
-.center,#firstimg{
-    width: 750px;
+.center,#shefimg{
+    width: 500px;
 }
 body{
     background-color: rgba(207, 207, 207, 0.777); 
